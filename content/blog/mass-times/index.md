@@ -17,3 +17,5 @@ Monday, Tuesday and Thursday 6:00am, Wednesday and Friday 6:30pm
 * 7:00am Mass 1st Sunday (Sinhala), 3rd Sunday (Tamil)
 Mass in English at 7:00am, at “Nirmala Chapel”, Clifford Place.
 All Masses are in English except where noted
+
+test
