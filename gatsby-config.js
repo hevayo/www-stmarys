@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `/www-stmarys`,
   siteMetadata: {
     title: `St Mary's Bambalapitiya`,
     author: {
