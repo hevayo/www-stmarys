@@ -44,7 +44,7 @@ const BlogPostTemplate = ({ data, location }) => {
             padding: 0,
           }}
         >
-          <li>
+          {/* <li>
             {previous && (
               <Link to={previous.fields.slug} rel="prev">
                 ← {previous.frontmatter.title}
@@ -57,7 +57,7 @@ const BlogPostTemplate = ({ data, location }) => {
                 {next.frontmatter.title} →
               </Link>
             )}
-          </li>
+          </li> */}
         </ul>
       </nav>
     </Layout>
